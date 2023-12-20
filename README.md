@@ -129,3 +129,17 @@ Literature is the original Internet – every footnote, every citation, every al
 ___
 
 
+Writing one line,
+
+then another without a break,
+
+results in text flowing as a single line.
+
+Appending two spaces to the end of the line¶¶
+
+creates a line break
+
+Including a blank line in between two lines of text
+
+creates a paragraph break.
+
